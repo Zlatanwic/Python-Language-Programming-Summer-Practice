@@ -25,7 +25,7 @@
 [第五次课](第五课v2024.pptx)
 [第六次课](第六课v2024.docx)  
 ## 推荐的自学资料  
-[python基础入门书]()
+[python基础入门书](https://github.com/Zlatanwic/Python-Language-Programming-Summer-Practice/blob/main/Python%E7%BC%96%E7%A8%8B%20%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5%20%3D%20Python%20Crash%20Course%20(Eric%20Matthes)%20(Z-Library).pdf)
 
 
 
